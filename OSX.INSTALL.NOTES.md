@@ -1,3 +1,9 @@
+# ncurses dependencies
+
++ centos7: yum install ncurses-devel
+
++ OSX:
+
 Courtesy of Michael R. Cook's blog post, here is how to fix
 the ncurses install problem on OSX.
 
